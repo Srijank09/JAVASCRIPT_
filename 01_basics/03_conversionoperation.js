@@ -16,7 +16,15 @@ let valueInNumber = Number(score)
 let number = 33
 
 let stringnumber = String(number)
-console.log(stringnumber);
-console.log(typeof stringnumber);
+// console.log(stringnumber);
+// console.log(typeof stringnumber);
 
-console.log(stringnumber =! stringnumber);
+// console.log(stringnumber =! stringnumber);
+
+// **********************************Operations**************************
+
+// console.log(1 + 2 +"2");
+
+
+
+
