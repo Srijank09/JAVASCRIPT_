@@ -14,3 +14,6 @@ console.log(a, b);
 
 // === used for strict checking
 console.log("2" === 2);
+
+// == used to check if the values are equal
+console.log("3" == 2);
