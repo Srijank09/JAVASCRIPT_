@@ -14,6 +14,8 @@
 //  undefined
 //  symbol= uniqunesss
 
+// example: let userEmail; is also equals to let userEmail = undefined
+
 //  Important null is a object (NOTE)
 // undefinied is a undefined itself
 
