@@ -1,7 +1,7 @@
 // Primitive types
 
 // 7 types
-// string, number,  boolean, null(empty), undefined, symbol, BigInt
+// string, number,  boolean, null(empty), undefined, symbol=unique, BigInt
 
 // reference types (Non primitive)
 
